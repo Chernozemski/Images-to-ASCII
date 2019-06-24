@@ -1,0 +1,9 @@
+c:\users\pc\documents\visual studio 2013\Projects\ImageToASCII\ImageToASCII\bin\Debug\ImageToASCII.exe.config
+c:\users\pc\documents\visual studio 2013\Projects\ImageToASCII\ImageToASCII\bin\Debug\ImageToASCII.exe
+c:\users\pc\documents\visual studio 2013\Projects\ImageToASCII\ImageToASCII\bin\Debug\ImageToASCII.pdb
+c:\users\pc\documents\visual studio 2013\Projects\ImageToASCII\ImageToASCII\obj\Debug\ImageToASCII.csprojResolveAssemblyReference.cache
+c:\users\pc\documents\visual studio 2013\Projects\ImageToASCII\ImageToASCII\obj\Debug\ImageToASCII.Form1.resources
+c:\users\pc\documents\visual studio 2013\Projects\ImageToASCII\ImageToASCII\obj\Debug\ImageToASCII.Properties.Resources.resources
+c:\users\pc\documents\visual studio 2013\Projects\ImageToASCII\ImageToASCII\obj\Debug\ImageToASCII.csproj.GenerateResource.Cache
+c:\users\pc\documents\visual studio 2013\Projects\ImageToASCII\ImageToASCII\obj\Debug\ImageToASCII.exe
+c:\users\pc\documents\visual studio 2013\Projects\ImageToASCII\ImageToASCII\obj\Debug\ImageToASCII.pdb
